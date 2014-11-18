@@ -3,7 +3,7 @@ exports.rand = ->
 
 exports.mse = (errors) ->
   sum = errors.reduce (sum, i) ->
-    sum + Math.pow 1, 2
+    sum + Math.pow i, 2
   , 0
   sum / errors.length
 

@@ -1,0 +1,19 @@
+{
+  "name": "nn",
+  "version": "1.0.0",
+  "description": "nn ==",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://michael_hodgins%40hotmail.com@github.com/michaelhodgins/nn.git"
+  },
+  "author": "Michael Hodgins",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/michaelhodgins/nn/issues"
+  },
+  "homepage": "https://github.com/michaelhodgins/nn"
+}
